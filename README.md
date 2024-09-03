@@ -6,7 +6,7 @@ This project focuses on optimizing the bank's loan portfolio to increase the tot
 
 ## Important 
 All the files available to download using this link below:
-
+[Google Drive Link to Download](https://drive.google.com/drive/folders/1C_5AsbD-Lf5ogyo7vaHdiXE-sYpwNqRy?usp=sharing)
 
 
 ## Primary Objective
