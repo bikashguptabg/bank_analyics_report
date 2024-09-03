@@ -19,7 +19,6 @@ All the files available to download using this link below:
 - **Gain Data-Driven Insights into Operations and Strategies:** Use data analytics to inform decision-making, identify trends, and uncover opportunities for strategic improvements.
 - **Optimize Loan Portfolio and Manage Risk:** Balance the portfolio by promoting low-risk loans and tightening credit approvals where necessary to minimize defaults.
 - **Enhance Security and Protect Against Fraud:** Strengthen the bank's security measures to safeguard customer data and prevent fraudulent activities.
-- **Improve Customer Experience and Loyalty:** Enhance the loan application process and customer service to increase satisfaction and foster long-term loyalty.
 - **Drive Business Growth and Stay Competitive:** Implement innovative solutions and strategies to maintain a competitive edge in the financial services industry.
 
 ## Final Recommendations
