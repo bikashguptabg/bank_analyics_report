@@ -1,12 +1,13 @@
-Here's a draft for the README section of your GitHub repository for the bank loans project:
-
----
-
 # Bank Loan Portfolio Optimization
 
 ## Project Overview
 
 This project focuses on optimizing the bank's loan portfolio to increase the total number of applications while ensuring higher profitability. The analysis is data-driven and aims to provide actionable insights to enhance overall business performance and drive growth.
+
+## Important 
+All the files available to download using this link below:
+
+
 
 ## Primary Objective
 
@@ -42,6 +43,7 @@ This project focuses on optimizing the bank's loan portfolio to increase the tot
 
 By strategically optimizing the loan portfolio, enhancing credit assessment processes, and focusing on targeted market segments, this project aims to improve the bank's financial performance while ensuring customer satisfaction and loyalty.
 
----
 
-Feel free to modify or expand this content as needed!
+Hope it was worth having a look! Please follow me on LinkedIn - https://www.linkedin.com/in/bikashguptabg/
+
+Thank you!
