@@ -15,7 +15,6 @@ All the files available to download using this link below:
 
 ## Secondary Objectives
 
-- **Enhance Workforce Efficiency and Performance:** Implement tools and processes that streamline operations, improve employee productivity, and optimize resource allocation.
 - **Achieve Measurable Improvements in Key Metrics:** Track and analyze critical business metrics to ensure continuous improvement and align with organizational goals.
 - **Gain Data-Driven Insights into Operations and Strategies:** Use data analytics to inform decision-making, identify trends, and uncover opportunities for strategic improvements.
 - **Optimize Loan Portfolio and Manage Risk:** Balance the portfolio by promoting low-risk loans and tightening credit approvals where necessary to minimize defaults.
